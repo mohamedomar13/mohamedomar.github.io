@@ -1,8 +1,14 @@
 h1{
-    width: 500px;
+
+color: crimson;
 }
 
-img{
-  width:100px;
-  height: 200px;
-}
+h2{color: crimson}
+
+h3 
+{color : crimson}
+
+img{ align-self: right;
+  widows: 50px;;
+  height: 200px; }
+
