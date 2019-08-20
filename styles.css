@@ -1,14 +1,13 @@
 h1{
-
-color: crimson;
+color: rgb(12, 9, 9);
 }
 
-h2{color: crimson}
+h2{color: rgb(12, 9, 9)}
+h3{color : rgb(12, 9, 9)}
 
-h3 
-{color : crimson}
-
-img{ align-self: right;
-  widows: 50px;;
-  height: 200px; }
-
+#headshot{
+  width: 100px;
+  height: 200px;
+  float: right;
+}
+p{font-family: cursive}
